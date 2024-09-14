@@ -1,4 +1,4 @@
-# QR-Code Enhanced
+# QR-Code revised
 
 This flipperzero-qrcode project was originally developed by [bmatcuk](https://github.com/bmatcuk/flipperzero-qrcode). The changed version creates an folder called "QR-Codes" in the apps_data folder and automaticly opens it when the application is launched.
 
