@@ -11,4 +11,4 @@ Simply drop the `.fap` file into the `apps` directory on your Flipper Zero SD ca
 
 ### 2. Professionals
 
-If you're experienced, you know what to do with the counter folder. Just drop it inside `user_applications` and compile it with [`fbt`](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md) or [`ufbt`](https://pypi.org/project/ufbt/).
+If you're experienced, you know what to do with the qrcode folder. Just drop it inside `user_applications` and compile it with [`fbt`](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md) or [`ufbt`](https://pypi.org/project/ufbt/).
